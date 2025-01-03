@@ -1,21 +1,14 @@
-👋 Hi, my name is Liam Winfield, I am a student from victoria Australia currently studying a graduate certificate in software development
-I'm just working part time at a cinema for now while I develop the necessary skills to make it in this industry. So far I have gained some
-experience with: <br/>
-HTML <br/>
-CSS <br/>
-version control through git <br/>
-deployment with github pages <br/>
-python <br/>
-React <br/>
-Bootstrap <br/>
-Tailwind <br/>
-and many more I am trying out as I go <br/>
+👋 Hi, I'm Liam Winfield from Victoria, Australia. I’ve recently graduated with a graduate certificate in software development and now work full-time at a helpdesk, supporting IT systems and troubleshooting technical issues. While my primary focus is system administration, I also enjoy coding for automation and process improvement when needed.
 
-I graduated with a double degree in arts/music last year and wanted to become a teacher in music/Indonesian <br/>
-but eventually decided on a change of pace by pursuing a job in tech.  <br/>
-Have a peruse of my projects and feel free to get in touch:  <br/>
-email: liambird3@gmail.com <br/>
-blog: https://jrdevjourney.blogspot.com/ <br/>
-linkedin: linkedin.com/in/liam-winfield-021152279 <br/>
-favourite colour: blue
+I have experience in:
 
+Systems administration basics (Windows, Linux, networking)
+Python scripting for automation and tasks
+Version control with Git and GitHub
+Web technologies (HTML, CSS, basic React)
+I’m passionate about improving IT systems and ensuring smooth operations, with a strong understanding of foundational networking and development principles.
+
+Feel free to explore my projects, and reach out if you'd like to connect!
+
+📧 Email: lmu.winfield@gmail.com
+🔗 LinkedIn: linkedin.com/in/liam-winfield-021152279
