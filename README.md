@@ -1,4 +1,4 @@
-👋 Hi, I'm Liam Winfield from Victoria, Australia. I’ve recently graduated with a graduate certificate in software development and now work full-time at a helpdesk, supporting IT systems and troubleshooting technical issues. While my primary focus is system administration, I also enjoy coding for automation and process improvement when needed.
+👋 Hi, I'm Liam Winfield from Victoria, Australia. I’ve recently graduated with a graduate certificate in software development and now work full-time at a helpdesk, supporting IT systems and troubleshooting technical issues. While my primary focus currnetly is system administration, I also enjoy coding for automation and process improvement when needed.
 
 I have experience in:
 
